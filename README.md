@@ -11,7 +11,7 @@
   <a href="mailto:na23b064@smail.iitm.ac.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://codeforces.com/profile/RIPImhere" target="_blank">
+  <a href="https://codeforces.com/profile/Herothenewdominator" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </p>
