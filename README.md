@@ -27,9 +27,9 @@
 - 🏆 **Hackathons & Competitions:** **National Finalist (Top 8 / 50k+)** at Amazon HackOn 2025.
 - 🌐 **Open Source:** Contributor to **Pharo** (2 PRs merged in core refactoring / tools).
 - 🧠 **Competitive Programming & Maths:**
-  - Member of the **CP Guild & Maths Club Guild** at IIT Madras.
+  - Member of the **CP Guild & Math Guild** at IIT Madras.
   - Specialist on Codeforces (Peak: 1445), LeetCode (1703), CodeChef (1624).
-- ⚡ **Fun Fact:** Represented Delhi U-16 National Team in Cricket & 1300+ on Chess.com.
+- ⚡ **Fun Fact:** I like to watch CppCon videos in free time and love exploring new algorithms.
 
 ---
 
