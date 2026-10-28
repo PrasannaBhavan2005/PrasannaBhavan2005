@@ -25,7 +25,7 @@
   - **SDE Intern @ Amazon:** Built backend APIs with Java (MVC) & AWS DynamoDB for Supply Chain Services.
   - **Research Consultant @ WorldQuant BRAIN:** Designing & simulating quantitative equity alpha models.
 - 🏆 **Hackathons & Competitions:** **National Finalist (Top 8 / 50k+)** at Amazon HackOn 2025.
-- 🌐 **Open Source:** Contributor to **Pharo** (2 PRs merged in core refactoring / tools).
+- 🌐 **Open Source:** Contributor to **Pharo** (10 PRs merged in core refactoring / tools).
 - 🧠 **Competitive Programming & Maths:**
   - Member of the **CP Guild & Math Guild** at IIT Madras.
   - Specialist on Codeforces (Peak: 1445), LeetCode (1703), CodeChef (1624).
